@@ -1,6 +1,6 @@
 # MyReads Project
 
-App Live - https://peterclerkin.github.io/myreads/
+App Live - https://peterclerkin.github.io/myreads
 
 This is a React.js Bookshelf app made for Udacity's Front-End Developers course.
 
